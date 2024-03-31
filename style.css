@@ -1,3 +1,81 @@
 body {
     background-color: black;
 }
+.content {
+    font-size: 60px;
+    text-align: center;
+    margin-top: 100px;
+    color: #8AD4EC;
+}
+.width {
+    color: white;
+    text-align: center;
+    margin-top: -70px;
+}
+.style {
+    text-align: center;
+}
+.alt {
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+}
+.DCY {
+    text-align: center;
+    color:#EF96FF;
+}
+.meta {
+    text-align: center;
+    margin-top: 50px;
+}
+.en {
+    width: 250px;
+    height: 50px;
+    background-color: #202832;
+    color: white;
+    text-align: center;
+    border-radius: 20px;
+    margin-left: 650px;
+}
+.link {
+    text-align: center;
+    margin-top: 40px;
+}
+.head {
+    text-align: center;
+    color: #FFFFFF;
+}
+.Diversity {
+    color: #FF56A9;
+    text-align: center;
+}
+.href {
+    text-align: center;
+}
+.h4 {
+    width: 250px;
+    height: 50px;
+    background-color: #202832;
+    color: white;
+    text-align: center;
+    border-radius: 20px;
+    margin-left: 650px;
+}
+.h5 {
+    width: 250px;
+    height: 50px;
+    background-color: #202832;
+    color: white;
+    text-align: center;
+    border-radius: 20px;
+    margin-left: 650px;
+}
+.h6 {
+    width: 250px;
+    height: 50px;
+    background: linear-gradient(91.26deg, #8AD4EC 0%, #EF96FF 21.74%, #FF56A9 54.03%, #FFAA6C 85.28%);
+    color: white;
+    text-align: center;
+    border-radius: 20px;
+    margin-left: 650px;
+}
